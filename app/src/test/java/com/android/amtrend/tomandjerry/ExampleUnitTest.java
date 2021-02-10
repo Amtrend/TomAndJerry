@@ -1,4 +1,4 @@
-package com.android.uraall.tomandjerry;
+package com.android.amtrend.tomandjerry;
 
 import org.junit.Test;
 

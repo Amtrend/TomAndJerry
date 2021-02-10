@@ -1,4 +1,4 @@
-package com.android.uraall.tomandjerry;
+package com.android.amtrend.tomandjerry;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

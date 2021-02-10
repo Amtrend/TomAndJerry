@@ -1,4 +1,4 @@
-package com.android.uraall.tomandjerry;
+package com.android.amtrend.tomandjerry;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.android.uraall.tomandjerry", appContext.getPackageName());
+        assertEquals("com.android.amtrend.com.android.com.android.amtrend.com.android.tomandjerry", appContext.getPackageName());
     }
 }
